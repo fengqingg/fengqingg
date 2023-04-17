@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chua-feng-qing/)&nbsp;&nbsp;
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/fengqingg)&nbsp;&nbsp;
-
+[![Stratascratch Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]https://platform.stratascratch.com/user/fengqingg&nbsp;&nbsp;
 </div>
 
 <br>
