@@ -35,11 +35,11 @@ I'm a physics undergraduate who loves using data to solve issues. I have been us
 
 * ### [Diabetes Prediction in R](https://github.com/fengqingg/Diabetes-Classification)
 
-    The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. The best model was linear SVM with an accuracy of 76% and lowest false positive result. The result was limited by the small sample size of the dataset which introduced high variance in the model.
+    This dataset is downloaded from Kaggle and it originated from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. The best model was linear SVM with an accuracy of 76% and lowest false positive result. The result was limited by the small sample size of the dataset which introduced high variance in the model.
 
-* ### [Loan Defaulter Prediction](https://github.com/juniorcl/health-insurance-cross-sell)
+* ### [Loan Defaulter Prediction](https://github.com/fengqingg/Loan-Prediction)
 
-    An organization wants to predict who possible defaulters are for the consumer loans product based on historic customer behavior. Possible defaulters will be with Risk_Flag == 1 and 0 for not possible for being a defaulter. After using several machine learning models and GridSearch, the best model is the random forest classifier with 93.4% accuracy.
+    This dataset is belongs to a Hackathon organized by "Univ.AI". An organization wants to predict who possible defaulters are for the consumer loans product based on historic customer behavior. Possible defaulters will be with Risk_Flag == 1 and 0 for not possible for being a defaulter. After using several machine learning models and GridSearch, the best model is the random forest classifier with 93.4% accuracy.
 
 
 ## Other Projects
