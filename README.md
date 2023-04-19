@@ -46,4 +46,4 @@ I'm a physics undergraduate who loves using data to solve issues. I have been us
 
 * ### [Pentago Game](https://github.com/fengqingg/Pentago)
 
-Pentago is a two-player abstract strategy board game invented by Tomas Flodén. Like chess, pentago is a two player game and the goal of the two players is to make the other player lose (or at least tie). In this notebook, pentago is coded with Python using Numpy with two available game modes, Player versus Player (PVP) mode or Computer bots with two level of difficulty.
+    Pentago is a two-player abstract strategy board game invented by Tomas Flodén. Like chess, pentago is a two player game and the goal of the two players is to make the other player lose (or at least tie). In this notebook, pentago is coded with Python using Numpy with two available game modes, Player versus Player (PVP) mode or Computer bots with two level of difficulty.
