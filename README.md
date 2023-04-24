@@ -37,6 +37,11 @@ I'm a physics undergraduate who loves using data to solve issues. I have been us
 
 ## Data Science Projects
 
+* ### [Anime Recommendation System](https://github.com/fengqingg/Anime-Recommendation)
+
+    I enjoy watching anime and came up with an anime recommendation system to recommend me anime base on my preferences. This dataset is downloaded from Kaggle and contains information on user preference data from 73,516 users on 12,294 anime. I used Content-Based Filtering to create a function which allows me to get similar animes base on an input anime. It uses TF-IDF vectorizer to convert the list of genres for each anime into a feature matrix, and then using the cosine similarity metric to compute the similarity between each pair of anime based on their genre features to recommend. Then I used Collaborative Filtering which analyzes the past behavior of users to identify those with similar preferences and uses Pearson correlation coefficient to determine their similarity and recommend highly rated animes.
+
+
 * ### [Diabetes Prediction in R](https://github.com/fengqingg/Diabetes-Classification)
 
     This dataset is downloaded from Kaggle and it originated from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. The best model was linear SVM with an accuracy of 76% and lowest false positive result. The result was limited by the small sample size of the dataset which introduced high variance in the model.
