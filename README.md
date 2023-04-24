@@ -31,6 +31,10 @@ I'm a physics undergraduate who loves using data to solve issues. I have been us
 
     An analysis of a simplified Brachistochrone problem. First by calculating the time needed to reach x=pi, then solving the ODE using fourth-order Runge-Kutta method (RK4). Eventually, optimizing the Brachistochrone equation parameters suchs that the time to reach the bottom of the equation with a mass is the shortest.
 
+* ### [Waste Optimization](https://github.com/fengqingg/Waste-Optimization-Analysis)
+
+    An analysis of optimization problem using numerical methods. The first part of the problem optimizes the net profit of the company using quadratic interpolation. Then a root bisect method is used to find the amount of tax the mayor should set to obtain the desired amount of waste to burn. We then derive a Newtwon-Raphson method using approximation to find the root of the tax function and talk about its limitations.
+
 ## Data Science Projects
 
 * ### [Diabetes Prediction in R](https://github.com/fengqingg/Diabetes-Classification)
