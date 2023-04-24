@@ -45,6 +45,9 @@ I'm a physics undergraduate who loves using data to solve issues. I have been us
 
     This dataset is belongs to a Hackathon organized by "Univ.AI". An organization wants to predict who possible defaulters are for the consumer loans product based on historic customer behavior. Possible defaulters will be with Risk_Flag == 1 and 0 for not possible for being a defaulter. After using several machine learning models and GridSearch, the best model is the random forest classifier with 93.4% accuracy.
 
+* ### [Titanic Classification](https://github.com/fengqingg/Titanic)
+
+    This project is a machine learning competition hosted by Kaggle, in which participants are tasked with predicting which passengers survived the Titanic shipwreck. This is a beginner competition which I attempted after learning the basics of machine learning and tried to improve my machine learning skills by reading other users notebooks. After learning different feature selection techniques, I managed to obtain a model accuracy of 82.1% and a public score in the competition of 76.8%
 
 ## Other Projects
 
