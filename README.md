@@ -25,17 +25,12 @@ I'm a physics undergraduate who loves using data to solve issues. I have been us
 
 * **Machine Learning Modeling:** Classification, Regression, Clusterization, and Recommendation.
 
-## Physics Simulation Projects
-
-* ### [Brachistochrone curve](https://github.com/fengqingg/Brachistochrone-curve)
-
-    An analysis of a simplified Brachistochrone problem. First by calculating the time needed to reach x=pi, then solving the ODE using fourth-order Runge-Kutta method (RK4). Eventually, optimizing the Brachistochrone equation parameters suchs that the time to reach the bottom of the equation with a mass is the shortest.
-
-* ### [Waste Optimization](https://github.com/fengqingg/Waste-Optimization-Analysis)
-
-    An analysis of optimization problem using numerical methods. The first part of the problem optimizes the net profit of the company using quadratic interpolation. Then a root bisect method is used to find the amount of tax the mayor should set to obtain the desired amount of waste to burn. We then derive a Newtwon-Raphson method using approximation to find the root of the tax function and talk about its limitations.
-
 ## Data Science Projects
+
+* ### [S&P500 Forecast](https://github.com/fengqingg/SANDP500)
+
+    As a beginner investor, I'm always looking for ways to improve my investment strategy and make more informed decisions.Thus I explored methods that can help me and I have created two models which can help me predict when to buy and sell stocks. I have downloaded historical data of the S&P500 from kaggle, which is an index of 500 large-cap stocks traded on the US stock market, which is then analyzed to see the trend and seasonality of the data. First, I used LSTM (Long Short-Term Memory) which is a type of neural network that's become increasingly popular in recent years, followed by ARIMA(AutoRegressive Integrated Moving Average) which is a classic statistical model that's been used for decades to forecast the data.
+    
 
 * ### [Anime Recommendation System](https://github.com/fengqingg/Anime-Recommendation)
 
@@ -53,6 +48,18 @@ I'm a physics undergraduate who loves using data to solve issues. I have been us
 * ### [Titanic Classification](https://github.com/fengqingg/Titanic)
 
     This project is a machine learning competition hosted by Kaggle, in which participants are tasked with predicting which passengers survived the Titanic shipwreck. This is a beginner competition which I attempted after learning the basics of machine learning and tried to improve my machine learning skills by reading other users notebooks. After learning different feature selection techniques, I managed to obtain a model accuracy of 82.1% and a public score in the competition of 76.8%
+
+## Physics Simulation Projects
+
+* ### [Brachistochrone curve](https://github.com/fengqingg/Brachistochrone-curve)
+
+    An analysis of a simplified Brachistochrone problem. First by calculating the time needed to reach x=pi, then solving the ODE using fourth-order Runge-Kutta method (RK4). Eventually, optimizing the Brachistochrone equation parameters suchs that the time to reach the bottom of the equation with a mass is the shortest.
+
+* ### [Waste Optimization](https://github.com/fengqingg/Waste-Optimization-Analysis)
+
+    An analysis of optimization problem using numerical methods. The first part of the problem optimizes the net profit of the company using quadratic interpolation. Then a root bisect method is used to find the amount of tax the mayor should set to obtain the desired amount of waste to burn. We then derive a Newtwon-Raphson method using approximation to find the root of the tax function and talk about its limitations.
+
+
 
 ## Other Projects
 
