@@ -23,7 +23,9 @@ I'm a physics undergraduate who loves using data to solve issues. I have been us
 
 * **Data Visualization:** Seaborn and Matplotlib.
 
-* **Machine Learning Modeling:** Classification, Regression, Clusterization, and Recommendation.
+* **Machine Learning Modeling:** Classification, Regression, Clusterization, Recommendation, and Time Series Models.
+
+* **Cloud Computing:** AWS S3, Lambda, and Sagemaker
 
 ## Data Science Projects
 
