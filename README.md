@@ -20,11 +20,15 @@ I'm a data engineer who loves using data to solve complex problems. I have trans
 
 * **Data Processing and Analytics:** Python, PySpark, R, Jupyter, and Spyder.
 
-* **Data Visualization:** Seaborn and Matplotlib.
+* **Data Visualization:** Power BI, Seaborn and Matplotlib.
 
 * **Machine Learning Modeling:** Classification, Regression, Clusterization, Recommendation, and Time Series Models.
 
 * **Cloud Computing:** AWS (S3, Lambda, EMR, and Redshift)
+
+* * **Data Integration:** StreamSets Data Collector
+
+* **CI/CD Automation:** Jenkins
 
 ## Data Science Projects
 
