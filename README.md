@@ -26,7 +26,7 @@ I'm a data engineer who loves using data to solve complex problems. I have trans
 
 * **Cloud Computing:** AWS (S3, Lambda, EMR, and Redshift)
 
-* * **Data Integration:** StreamSets Data Collector
+* **Data Integration:** StreamSets Data Collector
 
 * **CI/CD Automation:** Jenkins
 
