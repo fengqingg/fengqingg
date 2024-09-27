@@ -5,6 +5,7 @@
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chua-feng-qing/)&nbsp;&nbsp;
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/fengqingg)&nbsp;&nbsp;
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/fengqingg)&nbsp;&nbsp;
 [![Stratascratch Badge](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)](https://platform.stratascratch.com/user/fengqingg)&nbsp;&nbsp;
 
@@ -12,7 +13,9 @@
 
 <br>
 
-I'm a data engineer who loves using data to solve complex problems. I have transitioned from a physics background to a career in data engineering, where I focus on ETL processes in AWS. I use PySpark in EMR to create data pipelines and leverage Jenkins for CI/CD to S3. Additionally, I write DDL statements in DBeaver for managing Redshift tables and creating views. For more details about my projects and their solutions, please check the data science project section.
+I am a Data Engineer with a focus on cloud-based data solutions and ETL pipeline development, currently working in the semiconductor industry. I design and manage data workflows that support stakeholders from various module teams, leveraging my foundational knowledge in semiconductor fabrication to troubleshoot and resolve data-related issues.
+
+With experience in parallel processing, automation, and containerization, I aim to create efficient and scalable data solutions. My background in physics enhances my analytical thinking, and I’m committed to continuously learning and improving my skills in data engineering and cloud technologies. For more details about my projects, please check the data science project section.
 
 ### Analytics Tools
 
